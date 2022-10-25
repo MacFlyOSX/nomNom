@@ -9,6 +9,7 @@ NomNom is a website for parents to track their baby's food/nutrition as they ven
 * [Database Schema](https://github.com/MacFlyOSX/nomNom/wiki/Database-Schema)
 * [Feature List](https://github.com/MacFlyOSX/nomNom/wiki/Feature-List)
 * [Redux Store Shape](https://github.com/MacFlyOSX/nomNom/wiki/Redux-Store-Shape)
+* [User Stories](https://github.com/MacFlyOSX/nomNom/wiki/User-Stories)
 
 # 🧑‍💻 Under the Hood
 
